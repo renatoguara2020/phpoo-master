@@ -1,0 +1,16 @@
+{
+    "name": "root/phpoo",
+    "authors": [
+        {
+            "name": "Alexandre Cardoso",
+            "email": "falecom@asolucoesweb.com.br"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\":"app"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
